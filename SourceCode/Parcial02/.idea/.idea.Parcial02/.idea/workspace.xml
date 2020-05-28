@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c07bb829-f045-47ed-b39c-2e727d69b699" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/UserInterface.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/UsuarioDAO.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/Usuario.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Admin.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Admin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminViewOrders.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminViewOrders.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminProducts.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminProducts.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminBussines.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminBussines.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/OrderUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminEliminateU.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/User.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminEliminateU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminModifiedU.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminModifiedU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EliminateOrderU.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/EliminateOrderU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminCreateU.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminCreateU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminUser.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AdminUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewOrder.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ViewOrder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddOrderU.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AddOrderU.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/Form1.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/Login.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/Login.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/Form1.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DirectionUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Properties/Resources.resx" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/ChangePassword.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Vista/ChangePassword.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Modelo/Connection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/UserInterface.Designer.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/Properties/Resources.resx" />
+        <option value="$PROJECT_DIR$/ChangePassword.Designer.cs" />
+        <option value="$PROJECT_DIR$/Connection.cs" />
+        <option value="$PROJECT_DIR$/Usuario.cs" />
+        <option value="$PROJECT_DIR$/UsuarioDAO.cs" />
+        <option value="$PROJECT_DIR$/Registro.cs" />
+        <option value="$PROJECT_DIR$/RegistroDAO.cs" />
+        <option value="$PROJECT_DIR$/Login.cs" />
+        <option value="$PROJECT_DIR$/Form1.cs" />
+        <option value="$PROJECT_DIR$/Program.cs" />
+        <option value="$PROJECT_DIR$/Vista/ChangePassword.cs" />
+        <option value="$PROJECT_DIR$/Encriptador.cs" />
+        <option value="$PROJECT_DIR$/Admin.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminUsers.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminCreateU.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminModifiedU.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminEliminateU.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminBussines.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminProducts.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminViewOrders.Designer.cs" />
+        <option value="$PROJECT_DIR$/Admin.cs" />
+        <option value="$PROJECT_DIR$/Vista/Login.Designer.cs" />
+        <option value="$PROJECT_DIR$/AdminUser.cs" />
+        <option value="$PROJECT_DIR$/DirectionUser.Designer.cs" />
+        <option value="$PROJECT_DIR$/AddOrderU.Designer.cs" />
+        <option value="$PROJECT_DIR$/ViewOrder.Designer.cs" />
+        <option value="$PROJECT_DIR$/EliminateOrderU.Designer.cs" />
+        <option value="$PROJECT_DIR$/User.cs" />
+        <option value="$PROJECT_DIR$/OrderUser.cs" />
+        <option value="$PROJECT_DIR$/AdminCreateU.cs" />
+        <option value="$PROJECT_DIR$/AdminEliminateU.cs" />
+        <option value="$PROJECT_DIR$/AdminBussines.cs" />
+        <option value="$PROJECT_DIR$/AddOrderU.cs" />
+        <option value="$PROJECT_DIR$/AdminModifiedU.cs" />
+        <option value="$PROJECT_DIR$/AdminProducts.cs" />
+        <option value="$PROJECT_DIR$/AdminViewOrders.cs" />
+        <option value="$PROJECT_DIR$/DirectionUser.cs" />
+        <option value="$PROJECT_DIR$/EliminateOrderU.cs" />
+        <option value="$PROJECT_DIR$/ViewOrder.cs" />
+        <option value="$PROJECT_DIR$/Modelo/UsuarioDAO.cs" />
+        <option value="$PROJECT_DIR$/Modelo/Usuario.cs" />
+        <option value="$PROJECT_DIR$/Vista/Login.cs" />
+        <option value="$PROJECT_DIR$/Vista/Form1.cs" />
+        <option value="$PROJECT_DIR$/UserInterface.Designer.cs" />
+        <option value="$PROJECT_DIR$/UserInterface.cs" />
+        <option value="$PROJECT_DIR$/User.Designer.cs" />
+        <option value="$PROJECT_DIR$/OrderUser.Designer.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cUrqZ8fAEMv0t0BdoiS5PTbYAm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.SolutionExplorerActivator" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.3" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Parcial02" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Parcial02.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c07bb829-f045-47ed-b39c-2e727d69b699" name="Default Changelist" comment="" />
+      <created>1590594205139</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590594205139</updated>
+      <workItem from="1590594209546" duration="6810000" />
+      <workItem from="1590603281657" duration="452000" />
+      <workItem from="1590603946847" duration="154000" />
+      <workItem from="1590604119420" duration="22000" />
+      <workItem from="1590604227791" duration="542000" />
+      <workItem from="1590604854059" duration="737000" />
+      <workItem from="1590605604233" duration="3000" />
+      <workItem from="1590605677844" duration="745000" />
+      <workItem from="1590606521642" duration="122000" />
+      <workItem from="1590606696049" duration="2568000" />
+      <workItem from="1590610218864" duration="5947000" />
+      <workItem from="1590620413254" duration="8392000" />
+      <workItem from="1590630094080" duration="4910000" />
+      <workItem from="1590635393761" duration="990000" />
+      <workItem from="1590636721324" duration="1082000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1590636403496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590636403496" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1590636403496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590636403496" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1590636403496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590636403496" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1590636403496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590636403496" />
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom" timestamp="1590629988866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590629988866" />
+    <state width="1322" height="217" key="GridCell.Tab.1.center" timestamp="1590629988865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1590629988865" />
+    <state width="1322" height="217" key="GridCell.Tab.1.left" timestamp="1590629988865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1590629988865" />
+    <state width="1322" height="217" key="GridCell.Tab.1.right" timestamp="1590629988865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1590629988865" />
+    <state width="1322" height="217" key="GridCell.Tab.2.bottom" timestamp="1590629988867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590629988867" />
+    <state width="1322" height="217" key="GridCell.Tab.2.center" timestamp="1590629988866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1590629988866" />
+    <state width="1322" height="217" key="GridCell.Tab.2.left" timestamp="1590629988866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1590629988866" />
+    <state width="1322" height="217" key="GridCell.Tab.2.right" timestamp="1590629988867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1590629988867" />
+    <state width="1322" height="217" key="GridCell.Tab.3.bottom" timestamp="1590629988868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.3.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590629988868" />
+    <state width="1322" height="217" key="GridCell.Tab.3.center" timestamp="1590629988867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.3.center/0.0.1366.728@0.0.1366.728" timestamp="1590629988867" />
+    <state width="1322" height="217" key="GridCell.Tab.3.left" timestamp="1590629988867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.3.left/0.0.1366.728@0.0.1366.728" timestamp="1590629988867" />
+    <state width="1322" height="217" key="GridCell.Tab.3.right" timestamp="1590629988867">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.3.right/0.0.1366.728@0.0.1366.728" timestamp="1590629988867" />
+    <state width="1322" height="217" key="GridCell.Tab.4.bottom" timestamp="1590629988869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.4.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590629988869" />
+    <state width="1322" height="217" key="GridCell.Tab.4.center" timestamp="1590629988868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.4.center/0.0.1366.728@0.0.1366.728" timestamp="1590629988868" />
+    <state width="1322" height="217" key="GridCell.Tab.4.left" timestamp="1590629988868">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.4.left/0.0.1366.728@0.0.1366.728" timestamp="1590629988868" />
+    <state width="1322" height="217" key="GridCell.Tab.4.right" timestamp="1590629988869">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="217" key="GridCell.Tab.4.right/0.0.1366.728@0.0.1366.728" timestamp="1590629988869" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1590596917779">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1590596917779" />
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1590596442499">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="687" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1590596442499" />
+  </component>
+</project>

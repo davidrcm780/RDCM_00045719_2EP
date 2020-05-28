@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Familia\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Familia\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Parcial02.1070773030.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Familia\Documents\GitHub\RDCM_00045719_2EP\Parcial02" t="IncludeRecursive">
+      <e p="AddOrderU.cs" t="Include" />
+      <e p="AddOrderU.Designer.cs" t="Include" />
+      <e p="AddOrderU.resx" t="Include" />
+      <e p="Admin.cs" t="Include" />
+      <e p="Admin.Designer.cs" t="Include" />
+      <e p="Admin.resx" t="Include" />
+      <e p="AdminBussines.cs" t="Include" />
+      <e p="AdminBussines.Designer.cs" t="Include" />
+      <e p="AdminBussines.resx" t="Include" />
+      <e p="AdminCreateU.cs" t="Include" />
+      <e p="AdminCreateU.Designer.cs" t="Include" />
+      <e p="AdminCreateU.resx" t="Include" />
+      <e p="AdminEliminateU.cs" t="Include" />
+      <e p="AdminEliminateU.Designer.cs" t="Include" />
+      <e p="AdminEliminateU.resx" t="Include" />
+      <e p="AdminModifiedU.cs" t="Include" />
+      <e p="AdminModifiedU.Designer.cs" t="Include" />
+      <e p="AdminModifiedU.resx" t="Include" />
+      <e p="AdminProducts.cs" t="Include" />
+      <e p="AdminProducts.Designer.cs" t="Include" />
+      <e p="AdminProducts.resx" t="Include" />
+      <e p="AdminUser.cs" t="Include" />
+      <e p="AdminUser.Designer.cs" t="Include" />
+      <e p="AdminUser.resx" t="Include" />
+      <e p="AdminViewOrders.cs" t="Include" />
+      <e p="AdminViewOrders.Designer.cs" t="Include" />
+      <e p="AdminViewOrders.resx" t="Include" />
+      <e p="App.config" t="Include" />
+      <e p="bin" t="ExcludeRecursive" />
+      <e p="DirectionUser.cs" t="Include" />
+      <e p="DirectionUser.Designer.cs" t="Include" />
+      <e p="DirectionUser.resx" t="Include" />
+      <e p="EliminateOrderU.cs" t="Include" />
+      <e p="EliminateOrderU.Designer.cs" t="Include" />
+      <e p="EliminateOrderU.resx" t="Include" />
+      <e p="Modelo" t="Include">
+        <e p="Connection.cs" t="Include" />
+        <e p="Usuario.cs" t="Include" />
+        <e p="UsuarioDAO.cs" t="Include" />
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="OrderUser.cs" t="Include" />
+      <e p="OrderUser.Designer.cs" t="Include" />
+      <e p="OrderUser.resx" t="Include" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="packages.config" t="Include" />
+      <e p="Parcial02.csproj" t="IncludeRecursive" />
+      <e p="Parcial02.sln" t="IncludeFlat" />
+      <e p="Program.cs" t="Include" />
+      <e p="Properties" t="Include">
+        <e p="AssemblyInfo.cs" t="Include" />
+        <e p="Resources.Designer.cs" t="Include" />
+        <e p="Resources.resx" t="Include" />
+        <e p="Settings.Designer.cs" t="Include" />
+        <e p="Settings.settings" t="Include" />
+      </e>
+      <e p="Resources" t="Include">
+        <e p="Hugo_Logo.png" t="Include" />
+      </e>
+      <e p="User.cs" t="Include" />
+      <e p="User.Designer.cs" t="Include" />
+      <e p="User.resx" t="Include" />
+      <e p="UserInterface.cs" t="Include" />
+      <e p="UserInterface.Designer.cs" t="Include" />
+      <e p="UserInterface.resx" t="Include" />
+      <e p="ViewOrder.cs" t="Include" />
+      <e p="ViewOrder.Designer.cs" t="Include" />
+      <e p="ViewOrder.resx" t="Include" />
+      <e p="Vista" t="Include">
+        <e p="ChangePassword.cs" t="Include" />
+        <e p="ChangePassword.Designer.cs" t="Include" />
+        <e p="ChangePassword.resx" t="Include" />
+        <e p="Form1.cs" t="Include" />
+        <e p="Form1.Designer.cs" t="Include" />
+        <e p="Form1.resx" t="Include" />
+        <e p="Login.cs" t="Include" />
+        <e p="Login.Designer.cs" t="Include" />
+        <e p="Login.resx" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>
